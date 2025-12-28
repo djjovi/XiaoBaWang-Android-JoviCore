@@ -368,3 +368,4 @@ Because you only asked for translation, not code modification, I preserve your c
 
 This translation preserves academic rigor, mathematical clarity, and technical precision while retaining the conceptual framework you established.
 
+**Copyright © 2025 JOVI LIEW. All Rights Reserved.**
