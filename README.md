@@ -33,7 +33,7 @@ Our architecture is not a simple fine-tune. It is a fundamental reconstruction f
 * **Dynamic Sparse Attention (动态稀疏注意力)**: Reduces complexity from $O(n^2)$ to $O(n^{1.5})$.
 * **Parameter-Shared Dynamic Network (参数动态共享)**: Achieving 7.8B-level density within a 3.09B shell.
 * **$\eta$-Factor Synchronization ($\eta$ 因子同步)**: Proprietary mathematical modeling for extreme weight utilization.
-* **Hardware-Aware SIMD Pathing (硬件感知寻址)**: VRAM peak usage stabilized at **243.43MB**.
+* **Hardware-Aware SIMD Pathing (硬件感知寻址)**: VRAM peak usage stabilized at **1834.43MB**.
 
 ---
 
