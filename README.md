@@ -3,10 +3,10 @@
 ### ⚠️ WARNING: Breaking the Physical Limits of LLM Scaling.
 ### ⚠️ 警告：正在打破大模型“尺寸限制”的物理定律。
 
-![Benchmark Results](A.png)
+![Intelligence Benchmark](A.png)
 
-**XiaoBaWang (Jovi Core)** is the only 3B-parameter model that delivers "Closed-Source Giant" intelligence on budget hardware. Built on the proprietary **DYNAMIC Architecture**, it officially shreds the scaling laws.
-**小霸王（Jovi Core）** 是全球唯一在轻量级硬件上实现“千亿级巨兽”智商的 3.09B 模型。基于自研 **DYNAMIC 架构**，它彻底颠覆了参数量决定能力的旧时代。
+**XiaoBaWang (Jovi Core)** is the only 3B-parameter model that delivers "Closed-Source Giant" intelligence on budget hardware. Built on the revolutionary **DYNAMIC Architecture**, it officially shreds the scaling laws.
+**小霸王（Jovi Core）** 是唯一一个在轻量级硬件上实现“千亿级巨兽”智商的 3B 模型。基于自研 **DYNAMIC 架构**，它彻底颠覆了“参数决定论”。
 
 ---
 
@@ -22,41 +22,50 @@
 
 ---
 
-## 🔬 Technical Identity: Why we are faster & smarter?
-## 🔬 技术核心：为什么我们更强、更快？
+## ⚡ God-Tier Efficiency: Pure CPU & Low VRAM
+## ⚡ 神级效率：纯 CPU 战神与极低显存占用
 
-> **"Third-party AI analysis confirms: DYNAMIC Architecture achieves 3.17x the efficiency of standard Transformers."**
+**[EN]** Why waste $40,000 on a H100? XiaoBaWang runs on your daily driver.
+**[CN]** 为什么要浪费钱买高端显卡？小霸王在你的办公本上就能起飞。
 
-Our architecture is not a simple fine-tune. It is a fundamental reconstruction focusing on:
-我们的架构并非简单的微调，而是对底层逻辑的彻底重构：
+### 📸 Real-World Evidence / 实测证据
 
-* **Dynamic Sparse Attention (动态稀疏注意力)**: Reduces complexity from $O(n^2)$ to $O(n^{1.5})$.
-* **Parameter-Shared Dynamic Network (参数动态共享)**: Achieving 7.8B-level density within a 3.09B shell.
-* **$\eta$-Factor Synchronization ($\eta$ 因子同步)**: Proprietary mathematical modeling for extreme weight utilization.
-* **Hardware-Aware SIMD Pathing (硬件感知寻址)**: VRAM peak usage stabilized at **1834.43MB**.
+#### 1. Pure CPU Mode: 9.18 tokens/s (Zero GPU)
+![CPU Speed](屏幕截图%202025-12-28%20192236.jpg)
+> **[EN]** Stable **9.18 t/s** output on MSI GE73VR Mobile CPU with **0.00% GPU usage**.
+> **[CN]** 在 GPU 占用为 **0.00%** 的情况下，移动端 CPU 稳定输出 **9.18 t/s**。
+
+#### 2. GPU Mode: Ultra-Low Footprint
+![Hardware Logs](屏幕截图%202025-12-26%20152129.jpg)
+> **[EN]** Only **~1.83GB VRAM** used on a GTX 1060.
+> **[CN]** GTX 1060 实测显存占用仅约 **1.83GB**。
 
 ---
 
-## 💻 Hardware & Engineering Specs (硬件与工程指标)
-Verified via **LM Studio** and **Local API** testing:
+## 💻 Engineering Specs (工程指标)
 
-![Hardware Performance](屏幕截图%202025-12-26%20152129.png)
-![System Logic Analysis](Screenshot%202025-12-18%20003649.png)
-
-- **Hardware (显卡适配)**: Runs fluently on **NVIDIA GTX 1060** (VRAM: ~243MB).
-- **Mobile (手机适配)**: Seamless on mid-range chips (Snapdragon 6 / Dimensity 7 Series).
-- **Privacy (隐私安全性)**: 100% Local. Zero data leakage. (纯本地运行，数据零外发)
-- **Efficiency (效能)**: 32,768 Context Length with FlashAttention optimization.
+- **Size**: 3.09B Parameters | 1.79GB (Q4_K_M Quantization)
+- **CPU Speed**: **9.18 tokens/s** (Laptop CPU).
+- **GPU Usage**: **~243.43MB** system mapping / ~1.83GB CUDA.
+- **Efficiency**: 32,768 Context Length with FlashAttention optimization.
+- **Privacy**: 100% Local. Zero data leakage. (数据零外发，纯本地隐私)
 
 ---
 
 ## 🛡️ Open-Engine, Protected-Core Policy (开源与权益说明)
 To safeguard the **DYNAMIC Architecture** IP / 为了保护 DYNAMIC 架构核心知识产权：
-1. **Encrypted Weights**: Core weights are under **AES-256 protection**. (模型核心加密，不公开外泄)
-2. **Open Contribution**: Open for Android Shell, JNI bridge, and UI design. (开放安卓壳、JNI 优化及 UI 开发)
+1. **Encrypted Weights**: Core weights are encrypted. No unauthorized redistribution. (模型核心加密，不公开外泄)
+2. **Open Contribution**: Open for Android Shell, JNI bridge tuning, and UI design. (开放安卓壳工程、JNI 逻辑优化及 UI 开发)
 3. **Contributor Bounty (重磅激励)**: 
-   - **Lifetime Activation Key**: Merged PR contributors receive a permanent license. (参与贡献者将获得**终身免费激活密钥**)
-   - **Collaborations**: Seeking partnerships for hardware ecosystems. (诚邀手机厂商/硬件生态深度合作)
+   - **Lifetime Activation Key**: Merged PR contributors receive a permanent license. (参与代码贡献者，将获得**终身免费激活密钥**)
+   - **Collaborations**: Seeking partnerships for hardware ecosystems. (诚邀硬件厂商/手机生态深度合作)
+
+---
+
+## 📅 Roadmap / 路线图
+- [x] **DYNAMIC Engine Alpha** (Windows/Linux via LM Studio)
+- [ ] **Android APK v1.0.0** (Coming in 24-48h - **Star to get notified!**)
+- [ ] **Native NPU/DSP Integration**
 
 ---
 
@@ -68,5 +77,4 @@ To safeguard the **DYNAMIC Architecture** IP / 为了保护 DYNAMIC 架构核心
 
 ---
 *"My intellect is offline, but my IQ is transcendent. Let's rewrite the edge-AI era." — PAUL*
-
 
