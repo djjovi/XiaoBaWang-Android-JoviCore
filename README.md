@@ -3,7 +3,7 @@
 ### ⚠️ WARNING: Breaking the Physical Limits of LLM Scaling.
 ### ⚠️ 警告：正在打破大模型“尺寸限制”的物理定律。
 
-![Benchmark Results](A.jpg)
+![Benchmark Results](A.png)
 
 **XiaoBaWang (Jovi Core)** is the only 3B-parameter model that delivers "Closed-Source Giant" intelligence on budget hardware. Built on the revolutionary **DYNAMIC Architecture**, it officially shreds the scaling laws.
 **小霸王（Jovi Core）** 是唯一一个在轻量级硬件上实现“千亿级巨兽”智商的 3B 模型。基于自研 **DYNAMIC 架构**，它彻底颠覆了“参数决定论”。
@@ -24,7 +24,7 @@
 
 ## 💻 Hardware & Engineering Specs (硬件与工程指标)
 Verified via **LM Studio** and **Local API** testing:
-![Hardware Performance](屏幕截图%202025-12-26%20152129.jpg)
+![Hardware Performance](屏幕截图%202025-12-26%20152129.png)
 
 - **Size**: 3.09B Parameters | 1.79GB (Q4_K_M Quantization)
 - **Hardware (显卡)**: Runs fluently on **NVIDIA GTX 1060** (VRAM usage: **~243.43MB** only!).
@@ -49,6 +49,8 @@ To safeguard the **DYNAMIC Architecture** IP / 为了保护 DYNAMIC 架构核心
 - **WhatsApp**: [+60135588678](https://wa.me/60135588678)
 - **WeChat (微信)**: dragonballZ19968
 - **Email**: dallas.jovi@gmail.com
+
+![LM STUDIO Results](屏幕截图 2025-12-26 152117.png)
 
 ---
 *"My intellect is offline, but my IQ is transcendent. Let's rewrite the edge-AI era." — PAUL*
