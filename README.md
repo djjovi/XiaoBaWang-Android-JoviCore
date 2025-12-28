@@ -31,12 +31,12 @@
 ### 📸 Real-World Evidence / 实测证据
 
 #### 1. Pure CPU Mode: 9.18 tokens/s (Zero GPU)
-![CPU Speed](屏幕截图%202025-12-28%20192236.jpg)
+![CPU Speed](屏幕截图%202025-12-28%20192236.png)
 > **[EN]** Stable **9.18 t/s** output on MSI GE73VR Mobile CPU with **0.00% GPU usage**.
 > **[CN]** 在 GPU 占用为 **0.00%** 的情况下，移动端 CPU 稳定输出 **9.18 t/s**。
 
 #### 2. GPU Mode: Ultra-Low Footprint
-![Hardware Logs](屏幕截图%202025-12-26%20152129.jpg)
+![Hardware Logs](屏幕截图%202025-12-26%20152129.png)
 > **[EN]** Only **~1.83GB VRAM** used on a GTX 1060.
 > **[CN]** GTX 1060 实测显存占用仅约 **1.83GB**。
 
